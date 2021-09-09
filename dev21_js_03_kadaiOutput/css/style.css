@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    padding-top: 10px;
+}
+#output{
+    background-color: azure;
+}
+p{
+    background-color: lightskyblue;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 0em;
+    color: darkviolet;
+
+}
+
+#flex-1{
+    display: flex;
+    background-color: #999;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+
+.gorira{
+    padding-bottom: 10px;
+  margin: 0 auto;
+}
+
+#text{
+    resize: none;
+    border-width: 8px;
+    width: 240px;
+}
+
+#send{
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
